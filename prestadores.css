@@ -1,0 +1,104 @@
+
+
+h1{
+	font-size: 20px;
+    }
+
+ul{
+	display: flexbox;
+	vertical-align: auto;
+	margin-right: 15%;
+}ul
+
+h2{ 
+    
+	font-size: 20px;
+	
+}
+
+
+.link_01{
+
+    width:30%;
+    padding: 15px 25px;
+    background: #549319;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+
+ }
+
+.link_01:hover {
+    background: rgb(217, 255, 0);
+    color: rgb(12, 0, 5);
+    transform: scale(1.1);
+}
+
+.link_02{
+
+    width:30%;
+    padding: 15px 25px;
+    background: #197093;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+
+ }
+
+ .link_02:hover {
+    background: rgb(217, 255, 0);
+    color: rgb(12, 0, 5);
+    transform: scale(1.1);
+}
+  
+
+.link_03{
+
+    width:30%;
+    padding: 15px 25px;
+    background: #931937;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+
+ }
+
+ .link_03:hover {
+    background: rgb(217, 255, 0);
+    color: rgb(12, 0, 5);
+    transform: scale(1.1);
+}
+  
+
+.link_004{
+
+    width:30%;
+    padding: 15px 25px;
+    background: #934619;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+
+ }
+
+ .link_004:hover {
+    background: rgb(217, 255, 0);
+    color: rgb(12, 0, 5);
+    transform: scale(1.1);
+}
